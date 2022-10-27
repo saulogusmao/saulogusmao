@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @saulogusmao
-- 👀 I’m interested in code and technology
-- 🌱 I’m currently learning Dart and Flutter
+- 👀 I’m interested in code and technology.
+- 🌱 I’m currently learning Dart and Flutter.
 - 💞️ I’m looking to collaborate on my codes.
-- 📫 How to reach me : saulogusmaoribeiro@hotmail.com ; celphone and whatsapp: +55 31 98929-6202
+- 📫 How to reach me : saulogusmaoribeiro@hotmail.com ; celphone and whatsapp: +55 31 990864846
 
 <!---
 saulogusmao/saulogusmao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
